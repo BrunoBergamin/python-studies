@@ -1,10 +1,12 @@
 # Python Studies
 
+Status: repositorio de estudo.
+
 Repositorio de estudos em Python organizado por assunto, com exemplos pequenos e diretos para revisar fundamentos da linguagem e primeiros conceitos de orientacao a objetos.
 
 ## Visao geral
 
-Este projeto foi montado para acompanhar a evolucao em Python de forma progressiva e pratica. Em vez de concentrar tudo em um unico arquivo, os exemplos foram separados por tema para facilitar o estudo e a revisao.
+Este repositorio foi montado para acompanhar a evolucao em Python de forma progressiva e pratica. Em vez de concentrar tudo em um unico arquivo, os exemplos foram separados por tema para facilitar o estudo e a revisao.
 
 ## Estrutura
 
